@@ -29,3 +29,9 @@ add_filter(
     'parse_tax_query',
     'fab_do_not_include_children_in_category_archive_parse_tax_query'
 );
+
+
+function add_base_href() {
+  echo '<base href="'.get_bloginfo('url').'/" />';
+}
+add_action( 'wp_head', 'add_base_href' );
