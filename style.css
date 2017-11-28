@@ -26,3 +26,15 @@ Updated: 2017-11-26 18:47:36
 .fab-td-category-siblings .td-module-thumb img{
   max-height: 130px;
 }
+
+.ngg-gallery-thumbnail-box{
+	width:33%;
+}
+.ngg-gallery-thumbnail{
+	margin:0px !important;
+	padding:1px !important;
+	border:0px !important;
+}
+.ngg-gallery-thumbnail a{
+	margin:0px !important;
+}
