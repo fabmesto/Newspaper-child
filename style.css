@@ -1,0 +1,28 @@
+/*
+Theme Name: Newspaper Child
+Theme URI: http://tagdiv.com
+Template: Newspaper
+Author: tagDiv
+Author URI: http://themeforest.net/user/tagDiv/portfolio
+Description: Premium wordpress template, clean and easy to use.
+Tags: black,white,one-column,two-columns,fixed-layout
+Version: 8.2.1511718456
+Updated: 2017-11-26 18:47:36
+
+*/
+.fab-td-category-siblings{
+  margin-top:25px;
+  margin-bottom:25px;
+}
+.fab-td-category-siblings .td-module-thumb {
+  max-height:85px;
+  overflow: hidden;
+}
+.fab-td-category-siblings .td-current-sub-category{
+  background-color: white !important;
+  border:1px #eee solid;
+  font-weight: bold;
+}
+.fab-td-category-siblings .td-module-thumb img{
+  max-height: 130px;
+}
