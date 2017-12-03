@@ -148,6 +148,7 @@ abstract class td_category_template {
         return $buffy;
     }
 
+
     /**
      * Generates the sibling categories, it also compiles the $custom_category_color_css and adds it to the footer css buffer
      * @param string $params_array
@@ -289,8 +290,6 @@ abstract class td_category_template {
 
         return $buffy;
     }
-
-
 
 
     protected function get_pull_down() {
