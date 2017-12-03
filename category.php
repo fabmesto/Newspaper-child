@@ -54,6 +54,10 @@ td_js_buffer::add_to_footer (
 
 ?>
 
+
+<?php //td_api_category_template::_helper_show_category_template() ?>
+<?php //td_api_category_top_posts_style::_helper_show_category_top_posts_style() ?>
+
 <div class="td-main-content-wrap td-container-wrap">
     <div class="td-container">
 
